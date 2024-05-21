@@ -1,3 +1,5 @@
-# Ciencia-de-dados-projetos
+# Ciencia-de-dados-projetos (Desenvolvimento)
 Repositório para meus projetos de ciência de dados (Análise Exploratória, Machine Learning)
-\n https://github.com/BrunoZambuze/Ciencia-de-dados-projetos/blob/main/Classifica%C3%A7%C3%A3o%20Canc%C3%AAr%20de%20mama.ipynb
+Ainda estou no processo de desenvolvimento do meu portfólio, mas irei postar alguns dos meus projetos
+# Análise Exploratória (EDA)
+
